@@ -1,4 +1,0 @@
-#!/bin/bash
-echo "Stopping ultimo.services"
-sudo systemctl stop ultimo.service
-

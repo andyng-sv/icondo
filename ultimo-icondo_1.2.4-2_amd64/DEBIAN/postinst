@@ -1,6 +1,0 @@
-#!/bin/bash
-chmod +x ./home/administrator/ultimo/app/Ultimo.ICondo.WebApi
-sudo rm -rf ~/.cache/mozilla/firefox/*
-sudo systemctl enable ultimo.service
-sudo systemctl start ultimo.service
-

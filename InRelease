@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
 Date: Wed, 06 Jul 2022 07:53:25 UTC
 MD5Sum:
  337fea6ed148505a08d8a32c6f89ee7e              442 Packages
@@ -15,3 +18,12 @@ SHA512:
  d0c6fca81d6e268eb66b02cb2ed12ec0ec27c4388ea6b70580c56a38897ab95f32e68a364ce1b7534841ca2eb71521dd80adcea2111e517eea527f47900c9f38              442 Packages
  f0d5cd38875c536a8fef0c5ab39108ee18c4acfdd29e2aaf0734ac9b1ba10ddc6643176d8e78548ec1331623d819c26e3be3ad7a14f5f376158e86746c5a9054              343 Packages.gz
  1fe47bf9388917a0b0b59de3d59bc2d1339d6a20210b1c5098a68347ceda60935009c7be4099691242d2fdb4fda62c2b6023781d11f693ca34ebf9f10d848aaf               36 Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iJwEAQECAAYFAmLFQj4ACgkQKXA6nmkoov1ALwP7BlB12pPjnJKwkKktK+yMVlIJ
+rzZhuzpEqrrhom3eOTQ382tm+BNFxDevVvIeKpuOhE8jX0nhi/MermxG9fOcTRjg
+Uv6wTXmlimoIvNE/IVjUfKx+MHO10tkccllxFX+rP0aVIaLEGRCw6q6b+UQCOII3
+BOKDTksiWuxbFlDpiIc=
+=k/Eu
+-----END PGP SIGNATURE-----

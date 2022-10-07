@@ -1,7 +1,0 @@
-#!/bin/bash
-ultsvc=/etc/systemd/system/ultimo.service
-
-if [[ -f "$ultsvc" ]]
-then
-sudo rm /etc/systemd/system/ultimo.service
-fi

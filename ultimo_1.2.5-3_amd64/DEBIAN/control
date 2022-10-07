@@ -1,5 +1,0 @@
-Package: ultimo
-Version: 1.2.5-3
-Maintainer: Sole-Vision Technolgoies andyng@solevision.com.sg
-Architecture: amd64
-Description: Ultimo application for iCondo's webhooks and camera triggers.

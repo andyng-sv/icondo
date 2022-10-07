@@ -1,9 +1,0 @@
-#!/bin/bash
-ultsvc=/etc/systemd/system/ultimo.service
-
-if [[ -f "$ultsvc" ]]
-then
-sudo systemctl stop ultimo.service
-fi
-
-

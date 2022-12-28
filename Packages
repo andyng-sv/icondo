@@ -42,3 +42,14 @@ SHA1: 30f5974c23a5763a597ed7dc0deb6a95b95b9881
 SHA256: c7b29432249934f7c1332be7aea689b1947f5b991a9ce11fed8cfae8cff037d1
 Description: Ultimo application for iCondo's webhooks and camera triggers.
 
+Package: ultimo
+Version: 1.2.6-5
+Architecture: amd64
+Maintainer: Sole-Vision Technologies andyng@solevision.com.sg
+Filename: ./ultimo_1.2.6-5_amd64.deb
+Size: 24520266
+MD5sum: ea1bba555b091bf403f844dc39ea06a7
+SHA1: 5dea4d3a7cf81cfb3a61002cf43313513cc62455
+SHA256: 81022c6aacd0eadc628c3fbda22d3a09278827daa5f7ce55e6b1f78c7fefa809
+Description: Ultimo application for iCondo's webhooks and camera triggers.
+

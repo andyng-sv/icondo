@@ -58,9 +58,9 @@ Version: 1.2.6-6
 Architecture: amd64
 Maintainer: Sole-Vision Technologies andyng@solevision.com.sg
 Filename: ./ultimo_1.2.6-6_amd64.deb
-Size: 24554942
-MD5sum: ccec32a108466fa234056a52301466f4
-SHA1: 517350939fa6a3d1d1ca2a2f9f37b87cd5e29f5b
-SHA256: 71d69e1dbc748b3ed475e9d35837117dc969602db2dd40b37e88e4f00e962165
+Size: 24550948
+MD5sum: c4bca54c87bed54e8f89facf4a02d6ca
+SHA1: ed5504f9cdc20911dbcefa04dca54cefe119921c
+SHA256: a3f438e4565adb4e0cbe2f99eaf14bc533461bd0071c1067bc5d5032223289e1
 Description: Ultimo application for iCondo's webhooks and camera triggers.
 
